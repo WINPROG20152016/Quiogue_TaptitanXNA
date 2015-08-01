@@ -1,0 +1,2 @@
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache

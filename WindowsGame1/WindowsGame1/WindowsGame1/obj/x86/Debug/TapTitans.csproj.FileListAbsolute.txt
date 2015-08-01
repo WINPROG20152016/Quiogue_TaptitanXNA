@@ -1,0 +1,92 @@
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Background\Background.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Support\SpriteSheetSup1.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HeroAsset\IdleHero.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HeroAsset\AttackHero.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Support\SpriteSheetSup2.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Buttons\Button1.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\font.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\TapTitans.csprojResolveAssemblyReference.cache
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Buttons\ButtonDmg.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg0.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg1.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg1bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg2.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg2bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg3.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg3bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg4.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg4bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg5.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg5bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg6.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg6bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg7.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg7bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg8.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg8bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg9.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg9bl.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\0.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\10.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\100.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\20.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\30.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\40.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\50.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\60.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\70.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\80.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\90.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Monster\MonsterO1.xnb
+C:\Users\PandaBerg\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Monster\MonsterO1Hit.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Background\Background.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Support\SpriteSheetSup1.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HeroAsset\IdleHero.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Support\SpriteSheetSup2.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Buttons\Button1.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Buttons\ButtonDmg.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg0.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg1.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg1bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg2.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg2bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg3.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg3bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg4.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg4bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg5.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg5bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg6.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg6bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg7.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg7bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg8.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg8bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg9.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DamageBar\dmg9bl.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HeroAsset\AttackHero.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\0.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\10.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\100.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\20.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\30.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\40.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\50.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\60.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\70.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\80.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HP\90.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Monster\MonsterO1.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Monster\MonsterO1Hit.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\font.xnb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\TapTitans.csprojResolveAssemblyReference.cache
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\PandaBerg\Documents\Quiogue_TaptitanXNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

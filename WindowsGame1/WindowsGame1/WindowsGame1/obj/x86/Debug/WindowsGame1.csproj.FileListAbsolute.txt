@@ -1,0 +1,8 @@
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HeroAsset\Sprite1.xnb
+c:\users\pandaberg\documents\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Background\Background.xnb
